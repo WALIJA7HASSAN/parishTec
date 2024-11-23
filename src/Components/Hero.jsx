@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImg from '../assets/Mobile.webp'
+// import HeroImg from '../assets/Mobile.webp'
 import { GoArrowRight } from "react-icons/go";
 import 'aos/dist/aos.css';
 import EarlyAcessModal from './EarlyAcessModal';
@@ -13,7 +13,7 @@ const Hero = ({isOpen,onClose,onOpen}) => {
       <h3 data-aos="fade-up"
           data-aos-duration="1500" className='hero-title'>Unlocking Financial Freedom</h3>
       <div className='hero-img'>
-        <img src={HeroImg} alt="hero-img" />
+        <img src="./public/Assets/Mobile.webp" alt="hero-img" />
       </div>
       <div className='hero-content' id='mission'>
         <h4>MISSION</h4>

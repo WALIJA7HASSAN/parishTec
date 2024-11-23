@@ -801,7 +801,9 @@ footer div:first-child p{
   gap: .5rem;
 }
 .footer-policy{
-  gap: 1rem;
+  gap: .5rem;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer-social-icon{

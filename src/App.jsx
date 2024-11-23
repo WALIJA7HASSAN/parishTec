@@ -31,6 +31,6 @@ const App = () => {
   )
 }
 
-// data-aos-anchor-placement="top-bottom"
+
 
 export default App
