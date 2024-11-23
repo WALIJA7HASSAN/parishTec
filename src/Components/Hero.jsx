@@ -27,7 +27,7 @@ const Hero = ({isOpen,onClose,onOpen}) => {
       </div>
       </div>
       <div className='hero-img-lg'>
-        <img src={HeroImg} alt="hero-img" />
+        <img src="./public/Assets/Mobile.webp" alt="hero-img" />
       </div>
     </div>
     </div>
